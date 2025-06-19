@@ -1,4 +1,4 @@
-# Vrinda-_Store_Data_Analysis_using_excel
+# Vrinda_Store_Data_Analysis_using_excel
 
 📊 Vrinda Store Data Analysis Project
 This project focuses on analyzing sales and operational data for Vrinda Store using Microsoft Excel. The goal is to uncover key insights that help understand business performance, customer preferences, and product trends.
